@@ -30,6 +30,7 @@ gem 'jquery-rails'
 gem 'pg'
 gem 'slim-rails'
 gem 'therubyracer', :platform=>:ruby
+
 group :development do
   gem 'better_errors'
   gem 'rails_layout'

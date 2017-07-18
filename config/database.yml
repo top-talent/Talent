@@ -18,8 +18,8 @@ development:
   encoding: unicode
   database: shop_development
   pool:     5
-  username: shop
-  password:
+  username: root
+  password: Qwer1234!
   template: template0
 
   # Connect on a TCP socket. Omitted by default since the client uses a
